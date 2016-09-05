@@ -1,5 +1,5 @@
 /*
- * 1) Escolhaaopção adequada ao tentar compilar e rodar o código a seguir:
+ * 1) Escolha a opção adequada ao tentar compilar e rodar o código a seguir:
  */
 
 public class Exercicio01 {
