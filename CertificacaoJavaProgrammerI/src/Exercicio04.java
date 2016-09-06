@@ -5,7 +5,7 @@
 public class Exercicio04 {
 	static int x = 15;
 	
-	public static void main(String[] args) {
+	public static void main(String[] x) {
 		x=200;
 		System.out.println(x);
 	}
@@ -18,6 +18,6 @@ public class Exercicio04 {
  * d) O código compila mas dá erro em execução.
  
  *
- *Resposta: letra a, a variável estatica x é da classe e pode ser usada por toda a classe. 
+ *Resposta: letra c, pois ao passar o paramento x como argumento não pode alterar o valor da variável diretamente.. 
  */
 
